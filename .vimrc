@@ -1,0 +1,13 @@
+set hlsearch
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set nocompatible
+set smartindent
+set number
+set ruler
+set ttyfast
+set wildmenu
+syn on
+set splitbelow
